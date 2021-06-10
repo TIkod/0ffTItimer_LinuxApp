@@ -11,12 +11,15 @@ offTItimer will turn off your computer when you need it.
 # 🙃 GIF
 ![0ffTItimer_LinuxApp](https://imgur.com/C4bf59C.gif)
 
-# 📀 Installed
-<pre>
-<code>
-https://github.com/TIkod/0ffTItimer_LinuxApp.git
-</code>
-</pre>
+# 📀 How to start using
+Step 1. Сloned repository
+<pre><code>https://github.com/TIkod/0ffTItimer_LinuxApp.git</code></pre>
+
+Step 2. Go to the cloned folder
+
+Step 3. Go to the 'dict' folder
+
+Step 4. Opening a file 'offTItimer'
 
 # 👨‍💻 Author
 TIkod(Daniel)
