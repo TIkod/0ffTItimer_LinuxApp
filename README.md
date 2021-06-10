@@ -21,6 +21,10 @@ Step 3. Go to the 'dict' folder
 
 Step 4. Opening a file 'offTItimer'
 
+# 💻 For developers
+In the 'codeProject' folder there is a python file 'offTItimer.py' with all the written code. If you have ideas for revision as well as improvement of the program, I will be glad to contact you ✍️
+
+
 # 👨‍💻 Author
 TIkod(Daniel)
 https://t.me/TIkods
