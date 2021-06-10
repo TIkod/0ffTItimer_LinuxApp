@@ -9,7 +9,14 @@ The program resembles a function from TV, where people turned on the timer in th
 offTItimer will turn off your computer when you need it.
 
 # 🙃 GIF
-![0ffTItimer_LinuxApp](https://imgur.com/C4bf59C)
+![0ffTItimer_LinuxApp](https://imgur.com/C4bf59C.gif)
+
+# 📀 Installed
+<pre>
+<code>
+https://github.com/TIkod/0ffTItimer_LinuxApp.git
+</code>
+</pre>
 
 # 👨‍💻 Author
 TIkod(Daniel)
